@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# Getting Started with Create React App - making
-=======
-# Getting Started with Create React App - making
->>>>>>> 04eb810 (readme)
+# Getting Started with Create React App - now
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts and much more
 
 In the project directory, you can run:
 
